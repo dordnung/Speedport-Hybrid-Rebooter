@@ -1,7 +1,8 @@
 ## Speedport Hybrid Rebooter by David Ordnung   
 ## 
 ## This will restart your Speedport Hybrid.
-## With this you can for example restart your Speedport at a specific time interval (Crontab on Linux)
+## With this you can for example restart your Speedport in a specific time interval (Crontab on Linux)
+## Your device have to be in the local network and have to be access to the configurator!
 ##
 ## INSTALL INSTRUCTION         
 ##
